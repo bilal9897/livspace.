@@ -33,7 +33,7 @@ export default function Page() {
         <FrameHero
           first
           s={{
-            type: "frame-hero",
+            type: "frameHero",
             frames: FRAMES,
             title: hero.title,
             eyebrow: hero.eyebrow,
